@@ -41,7 +41,7 @@
         android:src="@drawable/frases"/>
 
     <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/start_pause"
+        android:id="@+id/start"
         style="@style/ButtonGeral"
         android:text="Começar"
         app:layout_constraintEnd_toEndOf="parent"
